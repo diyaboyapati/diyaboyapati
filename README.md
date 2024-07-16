@@ -22,10 +22,10 @@
 
 ---
 ### 💭: About Me:
-📚 Senior at Leland High School
-💻 I have a passion for computer science and technology and have developed coding and software skills in Python, Java, and HTML
-🖱️ I am currently a volunteer Ccomputer Science intern in the Ujima Security & User Privacy Research lab at the University of California San Diego
-🏀 In my free time I love to play and coach basketball!
+- 📚 Senior at Leland High School
+- 💻 I have a passion for computer science and technology and have developed coding and software skills in Python, Java, and HTML
+- 🖱️ I am currently a volunteer Ccomputer Science intern in the Ujima Security & User Privacy Research lab at the University of California San Diego
+- 🏀 In my free time I love to play and coach basketball!
 
 ---
 ### 🔨 Languages and Tools 
@@ -37,9 +37,9 @@
 </div>
 
 ---
-<h1>
-  How to reach me
-</h1>
+
+  How to reach me:
+
 <a href="mailto:diya.bpati@gmail.com">Email</a>
 
 
