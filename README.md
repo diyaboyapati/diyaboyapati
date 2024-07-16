@@ -36,6 +36,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg"title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diyaboyapati&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 
   How to reach me:
