@@ -42,12 +42,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diyaboyapati&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
-
-  How to reach me:
-
-<a href="mailto:diya.bpati@gmail.com">Email</a>
-
 
 
 
