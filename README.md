@@ -22,8 +22,8 @@
 
 ---
 ### 💭 About Me:
-- 📚 Senior at Leland High School
-- 💻 I have a passion for computer science and technology and have developed coding and software skills in Python, Java, and HTML
+- 📚 Freshman in Computer Science at Purdue University
+- 💻 I have a passion for computer science and technology and have developed coding and software skills in Python, Java, HTML, R, CSS, C
 - 🖱️ I am currently a volunteer Computer Science intern in the Ujima Security & User Privacy Research lab at the University of California San Diego
 - 🏀 In my free time I love to play and coach basketball!
 
